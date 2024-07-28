@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../assets/myImgNew2.remini-enhanced-removebg-preview.png";
+import profilePic from "../assets/myNewPicHD.jpg";
 import { HERO_CONTENT } from "../constants/index.js";
 import { motion } from "framer-motion";
 
